@@ -1,7 +1,7 @@
 # 3xA4B
 Utility PCB board. DC summing amplifier. Channels A are divided by 4 and optionally routed through a basic passive filter before being added to Channels B.
 
-Three channels. BNC inputs and outputs. DIN-6 input for 
+Three channels. BNC inputs and outputs. DIN-6 input for +12/-12 DC in. 
 
 <img src="https://latex.codecogs.com/svg.image?\textup{OUT}&space;=&space;\mathrm{LPF}(A\textup{}&space;/&space;4)&space;&plus;&space;\textup{B}" title="\textup{OUT} = \mathrm{LPF}(A\textup{} / 4) + \textup{B}" />
 
